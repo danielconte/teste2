@@ -12,6 +12,7 @@
 		}
 	}
 	
+	
 	function mediana($valores) {
 		if (is_array($valores)) {
 			sort($valores);
